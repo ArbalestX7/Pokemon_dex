@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">PokéDex</string>
+
+    <string name="pokemon_name">Pokémon Name</string>
+    <string name="desc">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="nama_about">Dito Iqbal Kusuma</string>
+    <string name="email_about">ditoiqbalkusuma11@gmail.com</string>
+    <string name="pokemon_image">Image Pokemon</string>
+    <string name="splash_name">PokéDex</string>
+    <string name="height_weight">Height / Weight :</string>
+    <string name="Type">Type :</string>
+    <string name="Weak">Weaknesses :</string>
+    <string name="evo_image">Evolutions</string>
+
+    <string-array name="data_name">
+        <item>Abra</item>
+        <item>Absol</item>
+        <item>Bulbasaur</item>
+        <item>Caterpie</item>
+        <item>Charmander</item>
+        <item>Cubone</item>
+        <item>Diglett</item>
+        <item>Gastly</item>
+        <item>Machop</item>
+        <item>MewTwo</item>
+        <item>Pikachu</item>
+        <item>Rayquaza</item>
+        <item>Snorlax</item>
+        <item>Squirtle</item>
+        <item>Zubat</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields. Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.</item>
+        <item>Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.</item>
+        <item>There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger. While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.</item>
+        <item>For protection, it releases a horrible stench from the antenna on its head to drive away enemies.</item>
+        <item>It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.</item>
+        <item>When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head. </item>
+        <item>It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.</item>
+        <item>It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin. Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.</item>
+        <item>Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.</item>
+        <item>Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.</item>
+        <item>When it is angered, it immediately discharges the energy stored in the pouches in its cheeks. When several of these Pokémon gather, their electricity can build and cause lightning storms.</item>
+        <item>Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.</item>
+        <item>It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep. This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.</item>
+        <item>When it retracts its long neck into its shell, it squirts out water with vigorous force.</item>
+        <item>It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png</item>
+        <item>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png</item>
+    </string-array>
+    
+    <string-array name="data_HeightWeight">
+        <item>2 ft 11 Inches / 43.0 lbs</item>
+        <item>3 ft 11 Inches / 103.6 lbs</item>
+        <item>2 ft 04 Inches / 15.2 lbs</item>
+        <item>1 ft 00 Inches / 6.4 lbs</item>
+        <item>2 ft 00 Inches / 18.7 lbs</item>
+        <item>1 ft 04 Inches / 14.3 lbs</item>
+        <item>0 ft 08 Inches / 1.8 lbs</item>
+        <item>4 ft 03 Inches / 0.2 lbs</item>
+        <item>2 ft 07 Inches / 43.0 lbs</item>
+        <item>6 ft 07 Inches / 269.0 lbs</item>
+        <item>1 ft 04 Inches / 13.2 lbs</item>
+        <item>23 ft 00 Inches / 455.3 lbs</item>
+        <item>6 ft 11 Inches / 1014.1 lbs</item>
+        <item>1 ft 08 Inches / 19.8 lbs</item>
+        <item>2 ft 07 Inches / 16.5 lbs</item>
+    </string-array>
+
+    <string-array name="data_type">
+        <item>Psychic</item>
+        <item>Dark</item>
+        <item>Grass, Poison</item>
+        <item>Bug</item>
+        <item>Fire</item>
+        <item>Ground</item>
+        <item>Ground</item>
+        <item>Ghost, Poison</item>
+        <item>Fighting</item>
+        <item>Psychic</item>
+        <item>Electric</item>
+        <item>Dragon, Flying</item>
+        <item>Normal</item>
+        <item>Water</item>
+        <item>Poison, Flying</item>
+    </string-array>
+
+    <string-array name="data_weak">
+        <item>Ghost, Dark, Bug</item>
+        <item>Fairy, Bug, Fighting</item>
+        <item>Fire, Psychic, Flying, Ice</item>
+        <item>Fire, Flying, Rock</item>
+        <item>Water, Ground, Rock</item>
+        <item>Water, Grass, Ice</item>
+        <item>Water, Grass, Ice</item>
+        <item>Ghost, Dark, Psychic, Ground</item>
+        <item>Pyschic, Flying, Fairy</item>
+        <item>Ghost, Dark, Bug</item>
+        <item>Ground</item>
+        <item>Fairy, Dragon, Ice, Rock</item>
+        <item>Fighting</item>
+        <item>Grass, Electric</item>
+        <item>Pyschic, Electric, Ice, Rock</item>
+    </string-array>
+
+    <integer-array name="data_evo">
+        <item>@drawable/evo_abra</item>
+        <item>@drawable/evo_absol</item>
+        <item>@drawable/evo_bulbasaur</item>
+        <item>@drawable/evo_caterpie</item>
+        <item>@drawable/evo_charmander</item>
+        <item>@drawable/evo_cubone</item>
+        <item>@drawable/evo_diglett</item>
+        <item>@drawable/evo_gastly</item>
+        <item>@drawable/evo_machop</item>
+        <item>@drawable/evo_mewtwo</item>
+        <item>@drawable/evo_pikachu</item>
+        <item>@drawable/evo_rayquaza</item>
+        <item>@drawable/evo_snorlax</item>
+        <item>@drawable/evo_squirtle</item>
+        <item>@drawable/evo_zubat</item>
+    </integer-array>
+</resources>
